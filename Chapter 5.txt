@@ -1,0 +1,19 @@
+CHAPTER 5
+
+NO.1
+Spam = {}
+NO.2
+spam = {'foo':42}
+NO.3
+Dictionary items are unordered and contain unique key pairs
+Lists items are ordered and allow duplication
+NO.4
+Its gives an error statement since ['foo'] is not part of spam
+NO.5
+
+NO.6
+
+NO.7
+spam.setdefault('colour','black')
+NO.8
+import p print
