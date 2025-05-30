@@ -1,0 +1,28 @@
+CHAPTER 6
+
+NO.1
+Escape characters are ones that consist of a backslash (\) followed by the character added to a string
+NO.2
+\t-Tab
+\n-Newline
+NO.3
+Using r (raw string)
+NO.4
+Since the string begins and ends with double quotes it implies that the single quote is part of the string
+NO.5
+
+NO.6
+'world'
+'Hello,'
+'Hello,'
+'o, world'
+NO.7
+'HELLO'
+True
+'hello'
+NO.8
+['Remember', 'remember', 'the fifth of November']
+['There', 'can', 'be', 'one']
+NO.9
+
+NO.10
